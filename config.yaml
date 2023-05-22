@@ -14,3 +14,8 @@ tracks:
     key: halloumi
     applicableGameVersion: '2023.03.24.0000.0000'
     runtimeVersion: 7.0.0
+    
+  profiles:
+    key: halloumi
+    applicableGameVersion: '2023.03.24.0000.0000'
+    runtimeVersion: 7.0.0
