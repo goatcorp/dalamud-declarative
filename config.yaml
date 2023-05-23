@@ -11,8 +11,8 @@ tracks:
     runtimeVersion: 7.0.0
     
   stg:
-    key: halloumi
-    applicableGameVersion: '2023.03.24.0000.0000'
+    key: focaccia
+    applicableGameVersion: '2023.05.18.0000.0000'
     runtimeVersion: 7.0.0
     
   profiles:
