@@ -11,7 +11,7 @@ tracks:
     runtimeVersion: 7.0.0
     
   stg:
-    key: focaccia
+    key: gyoza
     applicableGameVersion: '2023.05.18.0000.0000'
     runtimeVersion: 7.0.0
     
