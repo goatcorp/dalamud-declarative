@@ -9,13 +9,18 @@ tracks:
     key:
     applicableGameVersion: '2023.05.18.0000.0000'
     runtimeVersion: 7.0.0
-    
+
   stg:
     key: gyoza
     applicableGameVersion: '2023.05.18.0000.0000'
     runtimeVersion: 7.0.0
-    
+
   profiles:
     key: halloumi
     applicableGameVersion: '2023.03.24.0000.0000'
+    runtimeVersion: 7.0.0
+
+  v9:
+    key:
+    applicableGameVersion: '2023.05.18.0000.0000'
     runtimeVersion: 7.0.0
