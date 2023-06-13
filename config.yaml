@@ -15,10 +15,10 @@ tracks:
     applicableGameVersion: '2023.05.31.0000.0000'
     runtimeVersion: 7.0.0
 
-  profiles:
-    key: halloumi
-    applicableGameVersion: '2023.05.31.0000.0000'
-    runtimeVersion: 7.0.0
+#  profiles:
+#    key: halloumi
+#    applicableGameVersion: '2023.05.31.0000.0000'
+#    runtimeVersion: 7.0.0
 
   v9:
     key: https://www.oetker.ca/en_CA/products/p/giuseppe-rising-crust-canadian
