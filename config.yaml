@@ -11,8 +11,8 @@ tracks:
     runtimeVersion: 7.0.0
 
   stg:
-    key: baguette
-    applicableGameVersion: '2023.06.14.0000.0000'
+    key: verboten
+    applicableGameVersion: '2023.07.06.0000.0000'
     runtimeVersion: 7.0.0
 
   v9:
