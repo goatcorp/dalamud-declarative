@@ -11,11 +11,11 @@ tracks:
     runtimeVersion: 7.0.0
 
   stg:
-    key: verboten
+    key: bruh
     applicableGameVersion: '2023.07.06.0000.0000'
     runtimeVersion: 7.0.0
 
   v9:
     key: https://www.oetker.ca/en_CA/products/p/giuseppe-rising-crust-canadian
-    applicableGameVersion: '2023.06.14.0000.0000'
+    applicableGameVersion: '2023.07.06.0000.0000'
     runtimeVersion: 7.0.0
