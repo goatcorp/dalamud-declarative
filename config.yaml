@@ -12,7 +12,7 @@ tracks:
 
   stg:
     key: patella
-    applicableGameVersion: '2023.07.26.0000.0000'
+    applicableGameVersion: '2023.09.28.0000.0000'
     runtimeVersion: 7.0.0
 
   new_im_hooks:
