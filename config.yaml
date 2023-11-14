@@ -15,6 +15,11 @@ tracks:
     applicableGameVersion: '2023.11.09.0000.0000'
     runtimeVersion: 7.0.0
 
+  net8:
+    key: ripples
+    applicableGameVersion: '2023.11.09.0000.0000'
+    runtimeVersion: 8.0.0
+
   new_im_hooks:
     key: parma
     applicableGameVersion: '2023.07.26.0000.0000'
