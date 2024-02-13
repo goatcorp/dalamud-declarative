@@ -11,8 +11,8 @@ tracks:
     runtimeVersion: 7.0.0
 
   stg:
-    key: patella
-    applicableGameVersion: '2024.01.06.0000.0000'
+    key: gamepass
+    applicableGameVersion: '2024.02.05.0000.0000'
     runtimeVersion: 7.0.0
 
   net8:
