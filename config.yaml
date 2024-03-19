@@ -12,8 +12,8 @@ tracks:
 
   stg:
     key: gamepass
-    applicableGameVersion: '2024.02.05.0000.0000'
-    runtimeVersion: 7.0.0
+    applicableGameVersion: '2024.03.08.0000.0000'
+    runtimeVersion: 8.0.0
 
   net8:
     key: ripples
