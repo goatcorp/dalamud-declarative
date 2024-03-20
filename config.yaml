@@ -3,7 +3,7 @@ tracks:
   release:
     key:
     applicableGameVersion: '2024.03.08.0000.0000'
-    runtimeVersion: 7.0.0
+    runtimeVersion: 8.0.0
 
   canary:
     key:
