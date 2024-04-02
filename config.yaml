@@ -16,7 +16,7 @@ tracks:
     runtimeVersion: 8.0.0
 
   net8:
-    key: ripples
+    key: invalid
     applicableGameVersion: '2024.03.08.0000.0000'
     runtimeVersion: 8.0.0
 
