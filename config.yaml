@@ -2,12 +2,12 @@ tracks:
 
   release:
     key:
-    applicableGameVersion: '2024.03.08.0000.0000'
+    applicableGameVersion: '2024.03.27.0000.0000'
     runtimeVersion: 8.0.0
 
   canary:
     key:
-    applicableGameVersion: '2024.03.08.0000.0000'
+    applicableGameVersion: '2024.03.27.0000.0000'
     runtimeVersion: 8.0.0
 
   stg:
@@ -22,5 +22,5 @@ tracks:
 
   new_im_hooks:
     key: parma
-    applicableGameVersion: '2024.03.08.0000.0000'
+    applicableGameVersion: '2024.03.27.0000.0000'
     runtimeVersion: 8.0.0
