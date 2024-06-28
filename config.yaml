@@ -21,8 +21,8 @@ tracks:
     runtimeVersion: 8.0.0
 
   apiX:
-    key: brie
-    applicableGameVersion: '2024.04.23.0000.0000'
+    key: empanadas
+    applicableGameVersion: '2024.06.18.0000.0000'
     runtimeVersion: 8.0.0
 
   new_im_hooks:
