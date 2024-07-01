@@ -11,19 +11,15 @@ tracks:
     runtimeVersion: 8.0.0
 
   stg:
-    key: gamepass
-    applicableGameVersion: '2024.04.23.0000.0000'
-    runtimeVersion: 8.0.0
-
-  net8:
-    key: invalid
-    applicableGameVersion: '2024.03.08.0000.0000'
+    key: burrito
+    applicableGameVersion: '2024.06.18.0000.0000'
     runtimeVersion: 8.0.0
 
   apiX:
     key: empanadas
     applicableGameVersion: '2024.06.18.0000.0000'
     runtimeVersion: 8.0.0
+    alias: stg
 
   new_im_hooks:
     key: parma
