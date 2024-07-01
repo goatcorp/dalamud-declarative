@@ -19,7 +19,7 @@ tracks:
     key: empanadas
     applicableGameVersion: '2024.06.18.0000.0000'
     runtimeVersion: 8.0.0
-    alias: stg
+    #alias: stg
 
   new_im_hooks:
     key: parma
