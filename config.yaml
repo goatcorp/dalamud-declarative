@@ -12,12 +12,12 @@ tracks:
 
   stg:
     key: burrito
-    applicableGameVersion: '2024.06.18.0000.0000'
+    applicableGameVersion: '2024.07.06.0000.0000'
     runtimeVersion: 8.0.0
 
   apiX:
     key: empanadas
-    applicableGameVersion: '2024.06.18.0000.0000'
+    applicableGameVersion: '2024.07.06.0000.0000'
     runtimeVersion: 8.0.0
     alias: stg
 
