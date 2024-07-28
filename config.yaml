@@ -20,8 +20,3 @@ tracks:
     applicableGameVersion: '2024.07.10.0001.0000'
     runtimeVersion: 8.0.0
     alias: stg
-
-  new_im_hooks:
-    key: parma
-    applicableGameVersion: '2024.04.23.0000.0000'
-    runtimeVersion: 8.0.0
