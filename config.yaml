@@ -2,12 +2,12 @@ tracks:
 
   release:
     key:
-    applicableGameVersion: '2024.07.24.0000.0000'
+    applicableGameVersion: '2024.08.02.0000.0000'
     runtimeVersion: 8.0.0
 
   canary:
     key:
-    applicableGameVersion: '2024.07.24.0000.0000'
+    applicableGameVersion: '2024.08.02.0000.0000'
     runtimeVersion: 8.0.0
 
   stg:
@@ -17,6 +17,6 @@ tracks:
 
   apiX:
     key: empanadas
-    applicableGameVersion: '2024.07.24.0000.0000'
+    applicableGameVersion: '2024.08.02.0000.0000'
     runtimeVersion: 8.0.0
     alias: stg
