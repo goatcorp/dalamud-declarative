@@ -20,3 +20,8 @@ tracks:
     applicableGameVersion: '2024.08.02.0000.0000'
     runtimeVersion: 8.0.0
     alias: stg
+
+  api11:
+    key: raogrimm  # NOTE: This key may change a few times.
+    applicableGameVersion: '2024.08.21.0000.0000'
+    runtimeVersion: 8.0.0 
