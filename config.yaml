@@ -15,11 +15,10 @@ tracks:
     applicableGameVersion: '2024.08.21.0000.0000'
     runtimeVersion: 8.0.0
 
-  apiX:
-    key: empanadas
-    applicableGameVersion: '2024.08.02.0000.0000'
-    runtimeVersion: 8.0.0
-    alias: stg
+  net9:
+    key: yuzu
+    applicableGameVersion: '2024.11.06.0000.0000'
+    runtimeVersion: 9.0.0
 
   api11:
     key: raogrimm  # NOTE: This key may change a few times.
