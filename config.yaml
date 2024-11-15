@@ -11,8 +11,8 @@ tracks:
     runtimeVersion: 8.0.0
 
   stg:
-    key: burrito
-    applicableGameVersion: '2024.08.21.0000.0000'
+    key: 'Galkan Sausage'
+    applicableGameVersion: '2024.11.06.0000.0000'
     runtimeVersion: 8.0.0
 
   net9:
@@ -24,3 +24,4 @@ tracks:
     key: raogrimm  # NOTE: This key may change a few times.
     applicableGameVersion: '2024.11.06.0000.0000'
     runtimeVersion: 8.0.0 
+    alias: stg
