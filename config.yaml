@@ -2,12 +2,12 @@ tracks:
 
   release:
     key:
-    applicableGameVersion: '2024.11.06.0000.0000'
+    applicableGameVersion: '2024.11.20.0000.0000'
     runtimeVersion: 8.0.0
 
   canary:
     key:
-    applicableGameVersion: '2024.11.06.0000.0000'
+    applicableGameVersion: '2024.11.20.0000.0000'
     runtimeVersion: 8.0.0
 
   stg:
