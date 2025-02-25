@@ -12,7 +12,7 @@ tracks:
 
   stg:
     key: 'Galkan Sausage'
-    applicableGameVersion: '2025.01.28.0000.0000'
+    applicableGameVersion: '2025.02.19.0000.0000'
     runtimeVersion: 8.0.0
 
   net9:
