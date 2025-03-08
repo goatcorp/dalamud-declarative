@@ -17,7 +17,7 @@ tracks:
 
   net9:
     key: yuzu
-    applicableGameVersion: '2024.12.07.0000.0000'
+    applicableGameVersion: '2025.02.27.0000.0000'
     runtimeVersion: 9.0.2
 
   api11:
