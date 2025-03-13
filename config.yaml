@@ -19,7 +19,7 @@ tracks:
   net9:
     key: yuzu
     applicableGameVersion: '2025.02.27.0000.0000'
-    runtimeVersion: 9.0.2
+    runtimeVersion: 9.0.3
 
   api11:
     key: raogrimm  # NOTE: This key may change a few times.
