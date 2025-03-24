@@ -14,9 +14,9 @@ tracks:
     key: 'Galkan Sausage'
     applicableGameVersion: '2025.02.27.0000.0000'
     runtimeVersion: 8.0.0
-    alias: net9
+    alias: api12
 
-  net9:
+  api12:
     key: yuzu
     applicableGameVersion: '2025.02.27.0000.0000'
     runtimeVersion: 9.0.3
