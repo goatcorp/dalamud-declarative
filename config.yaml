@@ -17,6 +17,6 @@ tracks:
     alias: api12
 
   api12:
-    key: yuzu
-    applicableGameVersion: '2025.02.27.0000.0000'
+    key: cheeseburger
+    applicableGameVersion: '2025.03.18.0000.0000'
     runtimeVersion: 9.0.3
