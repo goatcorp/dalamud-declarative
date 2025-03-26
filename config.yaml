@@ -13,4 +13,4 @@ tracks:
   stg:
     key: icanhazbeta
     applicableGameVersion: '2025.03.18.0000.0000'
-    runtimeVersion: 8.0.0
+    runtimeVersion: 9.0.3
