@@ -11,12 +11,6 @@ tracks:
     runtimeVersion: 8.0.0
 
   stg:
-    key: 'Galkan Sausage'
-    applicableGameVersion: '2025.02.27.0000.0000'
-    runtimeVersion: 8.0.0
-    #alias: api12
-
-  api12:
-    key: cheeseburger
+    key: icanhazbeta
     applicableGameVersion: '2025.03.18.0000.0000'
-    runtimeVersion: 9.0.3
+    runtimeVersion: 8.0.0
