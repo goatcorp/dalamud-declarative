@@ -2,13 +2,13 @@ tracks:
 
   release:
     key:
-    applicableGameVersion: '2025.02.27.0000.0000'
-    runtimeVersion: 8.0.0
+    applicableGameVersion: '2025.03.18.0000.0000'
+    runtimeVersion: 9.0.3
 
   canary:
     key:
-    applicableGameVersion: '2025.02.27.0000.0000'
-    runtimeVersion: 8.0.0
+    applicableGameVersion: '2025.03.18.0000.0000'
+    runtimeVersion: 9.0.3
 
   stg:
     key: icanhazcheezburgr
