@@ -12,5 +12,5 @@ tracks:
 
   stg:
     key: icanhazcheezburgr
-    applicableGameVersion: '2025.03.18.0000.0000'
+    applicableGameVersion: '2025.03.27.0000.0000'
     runtimeVersion: 9.0.3
