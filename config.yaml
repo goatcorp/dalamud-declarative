@@ -12,10 +12,10 @@ tracks:
 
   stg:
     key: icanhazcheezburgr
-    applicableGameVersion: '2025.03.27.0000.0000'
+    applicableGameVersion: '2025.04.16.0000.0000'
     runtimeVersion: 9.0.3
 
   imgui-bindings:
     key: hamster
-    applicableGameVersion: '2025.03.27.0000.0000'
+    applicableGameVersion: '2025.04.16.0000.0000'
     runtimeVersion: 9.0.3
