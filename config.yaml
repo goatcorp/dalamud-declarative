@@ -2,17 +2,17 @@ tracks:
 
   release:
     key:
-    applicableGameVersion: '2025.06.10.0000.0000'
+    applicableGameVersion: '2025.06.19.0000.0000'
     runtimeVersion: 9.0.3
 
   canary:
     key:
-    applicableGameVersion: '2025.06.10.0000.0000'
+    applicableGameVersion: '2025.06.19.0000.0000'
     runtimeVersion: 9.0.3
 
   stg:
     key: icanhazcheezburgr
-    applicableGameVersion: '2025.06.10.0000.0000'
+    applicableGameVersion: '2025.06.19.0000.0000'
     runtimeVersion: 9.0.3
 
   imgui-bindings:
