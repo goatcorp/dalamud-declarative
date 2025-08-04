@@ -21,6 +21,6 @@ tracks:
     runtimeVersion: 9.0.3
 
   api13: 
-    key: spaghetti
+    key: "Rigatoni al Segreto"
     applicableGameVersion: '2025.06.28.0000.0000'
     runtimeVersion: 9.0.3
