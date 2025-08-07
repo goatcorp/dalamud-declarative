@@ -11,16 +11,12 @@ tracks:
     runtimeVersion: 9.0.3
 
   stg:
-    key: icanhazcheezburgr
-    applicableGameVersion: '2025.06.28.0000.0000'
-    runtimeVersion: 9.0.3
-
-  imgui-bindings:
-    key: hamster
-    applicableGameVersion: '2025.06.28.0000.0000'
+    key: "Rigatoni al Segreto"
+    applicableGameVersion: '2025.07.30.0000.0000'
     runtimeVersion: 9.0.3
 
   api13: 
     key: "Rigatoni al Segreto"
     applicableGameVersion: '2025.07.30.0000.0000'
     runtimeVersion: 9.0.3
+    alias: stg
