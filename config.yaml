@@ -12,11 +12,11 @@ tracks:
 
   stg:
     key: "Rigatoni al Segreto"
-    applicableGameVersion: '2025.07.30.0000.0000'
+    applicableGameVersion: '2025.08.07.0000.0000'
     runtimeVersion: 9.0.3
 
   api13: 
     key: "Rigatoni al Segreto"
-    applicableGameVersion: '2025.07.30.0000.0000'
+    applicableGameVersion: '2025.08.07.0000.0000'
     runtimeVersion: 9.0.3
     alias: stg
