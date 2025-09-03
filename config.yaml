@@ -4,13 +4,22 @@ tracks:
     key:
     applicableGameVersion: '2025.08.22.0000.0000'
     runtimeVersion: 9.0.3
+    hidden: false
+    displayName: "Stable"
+    description: "Released, stable versions of Dalamud (default branch)"
 
   canary:
     key:
     applicableGameVersion: '2025.08.22.0000.0000'
     runtimeVersion: 9.0.3
+    hidden: true
+    displayName: "Canary"
+    description: "Prerelease track"
 
   stg:
     key: "Rigatoni al Segreto"
     applicableGameVersion: '2025.08.22.0000.0000'
     runtimeVersion: 9.0.3
+    hidden: false
+    displayName: "Testing"
+    description: "Early testing of Dalamud for patches, may contain new features"
