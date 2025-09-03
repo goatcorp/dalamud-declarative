@@ -23,3 +23,11 @@ tracks:
     hidden: false
     displayName: "Testing"
     description: "Early testing of Dalamud for patches, may contain new features"
+
+  api13:
+    key: "don't actually use this"
+    applicableGameVersion: '2025.08.00.0000.0000'
+    runtimeVersion: 9.0.3
+    hidden: true
+    displayName: "Developer Preview"
+    description: "Early developer-only testing, expect crashes and critical issues"
