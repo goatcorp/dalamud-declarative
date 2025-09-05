@@ -2,7 +2,7 @@ tracks:
 
   release:
     key:
-    applicableGameVersion: '2025.08.22.0000.0000'
+    applicableGameVersion: '2025.09.04.0000.0000'
     runtimeVersion: 9.0.3
     hidden: false
     displayName: "Stable"
@@ -10,7 +10,7 @@ tracks:
 
   canary:
     key:
-    applicableGameVersion: '2025.08.22.0000.0000'
+    applicableGameVersion: '2025.09.04.0000.0000'
     runtimeVersion: 9.0.3
     hidden: true
     displayName: "Canary"
