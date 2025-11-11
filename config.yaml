@@ -18,7 +18,7 @@ tracks:
 
   stg:
     key: "Rigatoni al Segreto"
-    applicableGameVersion: '2025.10.13.0000.0000'
+    applicableGameVersion: '2025.10.30.0000.0000'
     runtimeVersion: 9.0.3
     hidden: false
     displayName: "Testing"
