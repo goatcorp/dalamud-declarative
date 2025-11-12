@@ -21,13 +21,13 @@ tracks:
     applicableGameVersion: '2025.10.30.0000.0000'
     runtimeVersion: 9.0.3
     hidden: false
-    displayName: "Testing"
+    displayName: "Beta Testing"
     description: "Early testing of Dalamud for patches, may contain new features"
 
-  api13:
-    key: "don't actually use this"
-    applicableGameVersion: '2025.08.00.0000.0000'
-    runtimeVersion: 9.0.3
-    hidden: true
-    displayName: "Developer Preview"
-    description: "Early developer-only testing, expect crashes and critical issues"
+  api14:
+    key: "FUTURE"
+    applicableGameVersion: '2025.10.30.0000.0000'
+    runtimeVersion: 10.0.0
+    hidden: false
+    displayName: "api14 / .NET10"
+    description: "[NOT FOR PATCH BETA] Next major Dalamud version, .NET 10 upgrade"
