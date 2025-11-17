@@ -17,7 +17,7 @@ tracks:
     description: "Prerelease track"
 
   stg:
-    key: "Rigatoni al Segreto"
+    key: "Rigatoni al Segreta"
     applicableGameVersion: '2025.10.30.0000.0000'
     runtimeVersion: 9.0.3
     hidden: false
