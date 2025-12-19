@@ -20,6 +20,6 @@ tracks:
     key: "Carbonara"
     applicableGameVersion: '2025.12.18.0000.0000'
     runtimeVersion: 10.0.0
-    hidden: true
+    hidden: false
     displayName: "Beta Testing"
-    description: "Early testing of Dalamud for patches, may contain new features"
+    description: "Prerelease version of Dalamud for Patch 7.4. MAY CAUSE CRASHES, report problems in Discord!"
