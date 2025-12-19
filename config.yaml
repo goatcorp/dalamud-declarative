@@ -3,7 +3,7 @@ tracks:
   release:
     key:
     applicableGameVersion: '2025.10.30.0000.0000'
-    runtimeVersion: 9.0.3
+    runtimeVersion: 10.0.0
     hidden: false
     displayName: "Stable"
     description: "Released, stable versions of Dalamud (default branch)"
@@ -11,7 +11,7 @@ tracks:
   canary:
     key:
     applicableGameVersion: '2025.10.30.0000.0000'
-    runtimeVersion: 9.0.3
+    runtimeVersion: 10.0.0
     hidden: true
     displayName: "Canary"
     description: "Prerelease track"
