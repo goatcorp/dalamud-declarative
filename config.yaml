@@ -22,4 +22,12 @@ tracks:
     runtimeVersion: 10.0.0
     hidden: false
     displayName: "Beta Testing"
-    description: "Prerelease version of Dalamud for Patch 7.4. MAY CAUSE CRASHES, report problems in Discord!"
+    description: "Prerelease testing of new Dalamud features and patch releases, may be unstable"
+
+  api15:
+    key: "send help"
+    applicableGameVersion: '2026.01.30.0000.0000'
+    runtimeVersion: 10.0.0
+    hidden: false
+    displayName: "API15 Preview"
+    description: "New major version of Dalamud, only intended for developer testing"
