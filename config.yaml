@@ -18,7 +18,7 @@ tracks:
 
   stg:
     key: "Carbonara"
-    applicableGameVersion: '2026.01.30.0000.0000'
+    applicableGameVersion: '2026.02.20.0000.0000'
     runtimeVersion: 10.0.0
     hidden: false
     displayName: "Beta Testing"
@@ -26,7 +26,7 @@ tracks:
 
   api15:
     key: "send help"
-    applicableGameVersion: '2026.01.30.0000.0000'
+    applicableGameVersion: '2026.02.20.0000.0000'
     runtimeVersion: 10.0.0
     hidden: false
     displayName: "API15 Preview"
