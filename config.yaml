@@ -17,17 +17,16 @@ tracks:
     description: "Prerelease track"
 
   stg:
-    key: "Carbonara"
-    applicableGameVersion: '2026.03.17.0000.0000'
+    key: "Saltimbocca"
+    applicableGameVersion: '2026.04.21.0000.0000'
     runtimeVersion: 10.0.0
-    hidden: false
+    hidden: true
     displayName: "Beta Testing"
     description: "Prerelease testing of new Dalamud features and patch releases, may be unstable"
 
   api15:
     key: "send help"
-    applicableGameVersion: '2026.04.21.0000.0000'
-    runtimeVersion: 10.0.0
-    hidden: false
+    alias: "stg"
+    hidden: true
     displayName: "API15 Preview"
     description: "New major version of Dalamud, only intended for developer testing"
