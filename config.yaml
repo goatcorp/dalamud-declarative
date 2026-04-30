@@ -20,7 +20,7 @@ tracks:
     key: "Saltimbocca"
     applicableGameVersion: '2026.04.21.0000.0000'
     runtimeVersion: 10.0.0
-    hidden: true
+    hidden: false
     displayName: "Beta Testing"
     description: "Prerelease testing of new Dalamud features and patch releases, may be unstable"
 
