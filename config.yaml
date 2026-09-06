@@ -24,9 +24,7 @@ tracks:
     displayName: "Beta Testing"
     description: "Prerelease testing of new Dalamud features and patch releases, may be unstable"
 
-  api15:
-    key: "send help"
-    alias: "stg"
-    hidden: true
-    displayName: "API15 Preview"
-    description: "New major version of Dalamud, only intended for developer testing"
+  api16:
+    key: "Torgal!"  # awoo?
+    displayName: "API16 Preview"
+    description: "New major version of Dalamud, only intended for developer testing. To be released around Evercold assuming nothing goes wrong."
