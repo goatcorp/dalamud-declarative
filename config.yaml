@@ -18,7 +18,7 @@ tracks:
 
   stg:
     key: "Saltimbocca"
-    applicableGameVersion: '2026.08.11.0000.0000'
+    applicableGameVersion: '2026.09.01.0000.0000'
     runtimeVersion: 10.0.0
     hidden: false
     displayName: "Beta Testing"
