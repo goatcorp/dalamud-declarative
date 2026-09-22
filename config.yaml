@@ -28,6 +28,6 @@ tracks:
     key: "Torgal!"  # awoo?
     applicableGameVersion: '2026.09.15.0000.0000'
     runtimeVersion: 10.0.0
-    hidden: false
+    hidden: true
     displayName: "API16 Preview"
     description: "New major version of Dalamud, only intended for developer testing. To be released around Evercold assuming nothing goes wrong."
