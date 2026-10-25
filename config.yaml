@@ -19,7 +19,7 @@ tracks:
   stg:
     key: "Saltimbocca"
     applicableGameVersion: '2026.10.16.0000.0000'
-    runtimeVersion: 10.0.0
+    runtimeVersion: 10.0.14
     hidden: false
     displayName: "Beta Testing"
     description: "Prerelease testing of new Dalamud features and patch releases, may be unstable"
@@ -27,7 +27,7 @@ tracks:
   api16:
     key: "Torgal!"  # awoo?
     applicableGameVersion: '2026.10.16.0000.0000'
-    runtimeVersion: 10.0.0
+    runtimeVersion: 10.0.14
     hidden: false
     displayName: "API16 Preview"
     description: "New major version of Dalamud, only intended for developer testing. Not for regular use."
